@@ -207,7 +207,6 @@ PRODUCT_PACKAGES += \
 
 # Media
 PRODUCT_PACKAGES += \
-    libmm-omxcore \
     libOmxCore \
     libOmxVdec \
     libOmxVenc \
