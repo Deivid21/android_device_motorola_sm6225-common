@@ -62,6 +62,9 @@ DEVICE_MANIFEST_FILE := $(COMMON_PATH)/manifest.xml
 DEVICE_MATRIX_FILE := hardware/qcom-caf/common/compatibility_matrix.xml
 ODM_MANIFEST_FILES := $(COMMON_PATH)/manifest-qva.xml
 
+# Ignore overriding commands errors
+BUILD_BROKEN_DUP_RULES := true
+
 # Init
 TARGET_INIT_VENDOR_LIB := //$(COMMON_PATH):libinit_sm6225
 
