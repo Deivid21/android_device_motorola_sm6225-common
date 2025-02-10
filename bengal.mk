@@ -143,8 +143,7 @@ PRODUCT_PACKAGES += \
 
 # FM
 PRODUCT_PACKAGES += \
-    FM2 \
-    qcom.fmradio
+    FM2
 
 # Framework detect
 PRODUCT_PACKAGES += \
