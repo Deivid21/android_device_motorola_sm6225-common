@@ -232,6 +232,7 @@ PRODUCT_PACKAGES += \
     FrameworksResTarget \
     LineageApertureAppCommon \
     LineageSdkOverlayCommon \
+    LineageSettingsProviderResCommon \
     NcmTetheringOverlay \
     SettingsProviderResCommon \
     SystemUIResCommon \
