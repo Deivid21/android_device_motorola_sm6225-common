@@ -25,6 +25,13 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
+    name: "init.mmi.lmk.rc",
+    src: "init.mmi.lmk.rc",
+    sub_dir: "init/hw",
+    vendor: true,
+}
+
+prebuilt_etc {
     name: "init.mmi.rc",
     src: "init.mmi.rc",
     sub_dir: "init/hw",
