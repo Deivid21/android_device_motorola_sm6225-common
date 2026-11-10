@@ -171,6 +171,7 @@ PRODUCT_PACKAGES += \
     init.mmi.charge_only.rc \
     init.mmi.chipset.rc \
     init.mmi.dalvik.rc \
+    init.mmi.lmk.rc \
     init.mmi.rc \
     init.qcom.rc \
     init.qcom.recovery.rc \
